@@ -1,5 +1,5 @@
 # NaturalDisasterPredict
-For CodeFunDo++
+Project Idea For CodeFunDo++. Team Members - Sarthak Srivastava, Abhay Agarwal, Harshit Goyal ;)
 
 ## IDEA:
 1. In India, major natural disasters comprise of Floods, Droughts and Earthquake, each of which has a major toll on life of a large number of people - economically, mentally as well as physically. Most of this can be avoided/ dealt with via appropriate preparation through timely alerts and warnings.
@@ -12,3 +12,9 @@ Training such algorithms on past records of seismic activities, rainfall records
 
 ### Algorithmic Detail:
 Use of CNN+LSTM. CNN - convolution neural network to act as filter of deciding the relevant factors for prediction from a pool of available suspected features for natural disaster prediction. Long Short Term Memory Reccurrent Neural Nets for making a prediction out of the selected features regarding classes consisting of 1. No disaster 2. Drought 3. Flood 4. Storm 5. Epidemic.
+
+### Earthquake prediction features:
+1. Unusual Animal Behaviour, 2. Hydrochemical Precursors, 3. Temperature Change, 4. Water Level, 5. Radon Gas, 6. Oil Wells, 7. Theory of Seismic Gap, 8. Foreshocks, 9. Changes in Seismic Wave Velocity
+
+### Drought Prediction: 
+Among other features as rainfall records, past data records and historical correlations, use of Standardized precipitation Index (SPI) as data input.
