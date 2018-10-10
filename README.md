@@ -14,7 +14,7 @@ Training such algorithms on past records of seismic activities, rainfall records
 Use of CNN+LSTM. CNN - convolution neural network to act as filter of deciding the relevant factors for prediction from a pool of available suspected features for natural disaster prediction. Long Short Term Memory Reccurrent Neural Nets for making a prediction out of the selected features regarding classes consisting of 1. No disaster 2. Drought 3. Flood 4. Storm 5. Epidemic.
 
 ### Earthquake prediction features:
-1. Unusual Animal Behaviour, 2. Hydrochemical Precursors, 3. Temperature Change, 4. Water Level, 5. Radon Gas, 6. Oil Wells, 7. Theory of Seismic Gap, 8. Foreshocks, 9. Changes in Seismic Wave Velocity
+1. Hydrochemical Precursors, 2. Temperature Change, 3. Water Level, 4. Oil Wells, 5. Theory of Seismic Gap, 6. Foreshocks, 7. Changes in Seismic Wave Velocity
 
 ### Drought Prediction: 
 Among other features as rainfall records, past data records and historical correlations, use of Standardized precipitation Index (SPI) as data input.
