@@ -17,4 +17,4 @@ Use of CNN+LSTM. CNN - convolution neural network to act as filter for deciding 
 1. Hydrochemical Precursors, 2. Temperature Change, 3. Water Level, 4. Oil Wells, 5. Theory of Seismic Gap, 6. Foreshocks, 7. Changes in Seismic Wave Velocity
 
 ### Drought Prediction: 
-Among other features as rainfall records, past data records and historical correlations, use of Standardized precipitation Index (SPI) as data input.
+Among other features as rainfall records, soil quality, past data records and historical correlations, use of Standardized precipitation Index (SPI) as data input.
